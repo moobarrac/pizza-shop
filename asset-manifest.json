@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/piza-shop/static/css/main.0509f114.css",
+    "main.js": "/piza-shop/static/js/main.262dbf8f.js",
+    "static/media/home-bg.jpg": "/piza-shop/static/media/home-bg.76aa5e98124666f496be.jpg",
+    "static/media/contact.jpg": "/piza-shop/static/media/contact.b79985f5a52259eafe86.jpg",
+    "static/media/about.jpg": "/piza-shop/static/media/about.870973e49ee491bab38d.jpg",
+    "static/media/pizza-logo.png": "/piza-shop/static/media/pizza-logo.08d3f794fccff1b64276.png",
+    "static/media/margherita.jpg": "/piza-shop/static/media/margherita.160075cf5d3845262fe4.jpg",
+    "static/media/meat-mushroom.jpg": "/piza-shop/static/media/meat-mushroom.2b07d397d213a14e6bd5.jpg",
+    "static/media/pepperoni.jpg": "/piza-shop/static/media/pepperoni.5d5f506da3dd5ae146d7.jpg",
+    "static/media/beef.jpg": "/piza-shop/static/media/beef.72abf4123ea055aa0540.jpg",
+    "static/media/vegan.jpg": "/piza-shop/static/media/vegan.16902628a39f81a517e1.jpg",
+    "static/media/cheese.jpg": "/piza-shop/static/media/cheese.e70ce8f901705b7b97e9.jpg",
+    "static/media/tomato.jpg": "/piza-shop/static/media/tomato.da5ba73c4c6ef0788d08.jpg",
+    "static/media/chicken.jpg": "/piza-shop/static/media/chicken.c51610cd00330732927e.jpg",
+    "static/media/fish.jpg": "/piza-shop/static/media/fish.5be64ef66bb4bb340934.jpg",
+    "index.html": "/piza-shop/index.html",
+    "main.0509f114.css.map": "/piza-shop/static/css/main.0509f114.css.map",
+    "main.262dbf8f.js.map": "/piza-shop/static/js/main.262dbf8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0509f114.css",
+    "static/js/main.262dbf8f.js"
+  ]
+}
