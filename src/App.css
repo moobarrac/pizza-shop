@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: .20s all linear;
+}
+html{
+  font-size: 65%;
+}
+ul{
+  list-style: none;
+}
+button{
+  outline: none;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+@media (max-width: 800px) {
+  html{
+    font-size: 55%;
+  }
+}
