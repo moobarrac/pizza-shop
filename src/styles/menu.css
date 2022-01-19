@@ -18,7 +18,7 @@
 }
 .menu-item{
   width: 450px;
-  max-width: 80%;
+  max-width: 60%;
   height: 400px;
   background-color: rgba(0, 0, 0, 0.788);
   color: #FFC107;
@@ -49,9 +49,27 @@
   overflow: hidden;
 }
 .menu-item h1{
-  margin: 10px;
-  transform: translate(-40%, 25%);
+  font-size: 3rem;
+  margin: 5px;
 }
 .menu-item p{
-  transform: translate(250%, -115%);
+  margin-bottom: 5px;
+}
+@media (max-width: 600px) {
+  .menu{
+    padding: 3rem 0;
+  }
+  .menu-item{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 2rem;
+  }
+  .menu-item img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .menu-item h1{
+    font-size: 2rem;
+  }
 }

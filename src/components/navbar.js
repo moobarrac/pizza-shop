@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 import "../styles/navbar.css"
 import {AiOutlineHome, AiOutlineInfoCircle, AiOutlineContacts} from 'react-icons/ai'
 import {FaBars, FaTimes} from 'react-icons/fa'
-import { useEffect, useState } from 'react/cjs/react.development'
+import { useState } from 'react'
 
 function Navbar() {
   const [showNavbar, setShowNavbar] = useState(false)
